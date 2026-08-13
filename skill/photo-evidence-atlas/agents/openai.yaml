@@ -1,0 +1,4 @@
+interface:
+  display_name: "Photo Evidence Atlas"
+  short_description: "Turn photographs into precise visual evidence plates."
+  default_prompt: "Use $photo-evidence-atlas to turn this photograph into a restrained visual evidence plate."
